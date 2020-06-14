@@ -1,3 +1,4 @@
+// Example test file for the library
 #include "base64.h"
 #include <vector>
 #include <iostream>
